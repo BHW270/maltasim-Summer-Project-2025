@@ -8,7 +8,7 @@ This repo contains my 2025 Summer Project at the University of Birmingham, where
 The main contributions in this repository are:
 - **Sentaurus TCAD Project**: Creation of a Sentaurus TCAD project to generate realistic electric field profiles for detector simulations, this includes a Gaussian doping profile to make the electric field more structured.
 - **Simulation Automation**: Scripts to automate running simulations across multiple angles, improving workflow efficiency. Examples are autonInclination.py and BulkReconstruct.py.
-- **Plotting Tools**: Utilities for visualizing results. Found under /MaltaSW/MaltaTbAnalysis_SPS2021/simulation/PlottingScripts/
+- **Plotting Tools**: Utilities for visualizing results. Found under /MaltaSW/MaltaTbAnalysis_SPS2021/simulation/PlottingScripts.
 
 
 ## Repository Structure and key locations
