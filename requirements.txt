@@ -1,0 +1,30 @@
+# Core scientific and plotting libraries
+numpy
+matplotlib
+pandas
+scipy           # If used anywhere, since numpy/matplotlib are present
+root_numpy      # For ROOT/Python interoperability
+ROOT            # May require conda or system install; sometimes installed as 'pyroot'
+PyQt5
+
+# Data and logging
+coloredlogs
+verboselogs
+
+# Serial communication
+pyserial        # For 'serial' import
+
+# Database
+mysql-connector-python  # For 'mysql' import (or use 'mysqlclient' or 'PyMySQL')
+
+# TOML config
+toml
+
+# Subprocess automation
+pexpect
+
+# For any custom modules (GeoTool, MaltaStyle, etc.)
+# You need to provide install instructions or add those .py files to your repo
+
+# Other commonly pip-installable modules
+argparse        # Usually standard, but include if needed in legacy environments
